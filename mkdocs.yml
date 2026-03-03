@@ -213,7 +213,7 @@ nav:
       - "ETHz: Computer Architecture": "体系结构/CA.md"
   - 操作系统:
       - "MIT 6.S081: Operating System Engineering": "操作系统/MIT6.S081.md"
-      - "UCB CS162: Operating System": "操作系统/CS162.md"
+      - "UCB CS162: Operating Systems and Systems Programming": "操作系统/CS162.md"
       - "NJU OS: Operating System Design and Implementation": "操作系统/NJUOS.md"
       - "HIT OS: Operating System": "操作系统/HITOS.md"
   - 并行与分布式系统:
@@ -281,6 +281,9 @@ nav:
   - 深度学习:
       - "Coursera: Deep Learning": "深度学习/CS230.md"
       - "国立台湾大学: 李宏毅机器学习": "深度学习/LHY.md"
+      - "CMU 11-785: Introduction to Deep Learning": "深度学习/CMU11-785.md"
+      - "MIT 6.7960: Deep Learning": "深度学习/MIT6-7960.md"
+      - "NYU DLSP21: NYU Deep Learning Spring 2021": "深度学习/NYU-DLSP21.md"
       - "UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision": "深度学习/EECS498-007.md"
       - "Stanford CS231n: CNN for Visual Recognition": "深度学习/CS231.md"
       - "Stanford CS224n: Natural Language Processing": "深度学习/CS224n.md"
